@@ -13,7 +13,7 @@ The following checklist includes common points to consider when creating your th
 
 ### Content / Structure
 
-- Is the problem clearly formulated? Is the work based on a clear research question?
+- Is the problem clearly formulated? Is the work based on a cxlear research question?
 - Is the goal of the work (“contribution”) clearly articulated? e.g. design guidelines / recommendations / considerations based on analysis and/or user study, prototype, design concepts…
 - Is the current state of knowledge on the research subject (“related work”) taken into account?
   * up-to-date, representative references (preferably peer-reviewed formats such as scientific papers, journal articles, books)
@@ -52,7 +52,7 @@ The following checklist includes common points to consider when creating your th
   * best to check while you are writing (e.g. Grammarly)
   * same naming for the same things / concepts: consistency
   * writing in German, use English terms wherever sensible (e.g. usability, tap, swipe, pinch)
-  * writing in German, use gender according to [FHOÖ guidelines](https://fh-ooe.at/assets/files/diversity-inclusion/Handreichungen-Links/Sprachleitfaeden/FHO_21_Sprachleitfaden_Genderleitfaden_A4_210310lrn2.pdf)
+  * writing in German, use gender according to [FHOÖ Guidelines](https://fh-ooe.at/assets/files/diversity-inclusion/Handreichungen-Links/Sprachleitfaeden/FHO_21_Sprachleitfaden_Genderleitfaden_A4_210310lrn2.pdf)
   * abbreviations should be introduced when they are first mentioned in the text (e.g. “the Affinity for Technology Interaction (ATI) Scale states ..”), and can be used as such lateron in the text (best practice: do so at the beginning of each chapter, as it cannot be assumed that readers will read through your entire thesis)
 - Is the thesis sensibly structured into chapters, subchapters, paragraphs?
   * not too short, not too long; rule of thumb: one “topic” per (sub)chapter, one “idea” per paragraph
