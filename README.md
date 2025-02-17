@@ -39,9 +39,12 @@ The following checklist includes common points to consider when creating your th
   * Measured quantitative and/or qualitative data (e.g., time, error, interview / questionnaire questions...)
   * Procedure (step-by-step explanation of the study routine)
 - Reporting: Are the results presented in a clear and structured way? 
-  * descriptive statistics: e.g., bar charts, box plots, tables... (don't forget about the indicate units or provide legends wherever appropriate!)
-  * inferential statistics: e.g., ANOVA, t-test, correlation analysis... (statistical values by convention indicated in _italics_, e.g., _M_ = mean, _MD_ = median, _SD_ = standard deviation...)
-  * qualitative data: e.g., number of participants exhibiting similar patterns / making similar statements, representative quotes... (don't forget do pseudonymize, e.g., "P1"!)
+  * descriptive statistics: e.g., bar charts, box plots, tables... 
+(don't forget about the indicate units or provide a legend wherever appropriate!)
+  * inferential statistics: e.g., ANOVA, t-test, correlation analysis... 
+(statistical values by convention indicated in _italics_, e.g., _M_ = mean, _MD_ = median, _SD_ = standard deviation...)
+  * qualitative data: e.g., number of participants exhibiting similar patterns / making similar statements, representative quotes... 
+(don't forget do pseudonymize, e.g., "P1"!)
 - Interpretation:
   * What do the results mean in relation to the initial research question / hypotheses?
   * What can we derive from this? What is the takeaway? see also: content / structure
