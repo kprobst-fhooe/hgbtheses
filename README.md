@@ -37,8 +37,8 @@ Particularly important points are highlighted in **bold** and/or indicated with 
 
 ### User Studies
 
-- **Is the aim of the study clearly formulated? **Are there clear hypotheses to be validated?
-- **Is the study design well done? **e.g., sufficient number of participants, counterbalancing to avoid learning effects,...
+- **Is the aim of the study clearly formulated?** Are there clear hypotheses to be validated?
+- **Is the study design well done?** e.g., sufficient number of participants, counterbalancing to avoid learning effects,...
 - **Is the study design described in a comprehensible manner?**
   * Conditions (what is being evaluated?)
   * Participants (how many, their age / gender / prior experience...)
