@@ -41,7 +41,7 @@ The following checklist includes common points to consider when creating your th
 - Reporting: Are the results presented in a clear and structured way? 
   * descriptive statistics: e.g., bar charts, box plots, tables... (indicate units or provide a legend wherever appropriate!)
   * inferential statistics: e.g., ANOVA, t-test, correlation analysis... (statistical values by convention in _italics_, e.g., _M_ = mean...)
-  * qualitative data: e.g., number of participants making similar statements, representative quotes... (don't forget do pseudonymize, e.g., "P1")
+  * qualitative data: e.g., number of participants w/ similar behaviors, representative quotes... (don't forget do pseudonymize, e.g., "P1")
 - Interpretation:
   * What do the results mean in relation to the initial research question / hypotheses?
   * What can we derive from this? What is the takeaway? see also: content / structure
