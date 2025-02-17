@@ -90,6 +90,6 @@ Particularly important points are highlighted in **bold** and/or indicated with 
 - **‼️ Check Frontmatter:** Titel, Your Name, Your Study Program, Date (must match the submission date)
 - **‼️ Name of Supervisor:** Prof. Dr. Kathrin Probst, BSc, MSc (DE: FH-Prof.in Dr.in Kathrin Probst, BSc MSc)
 - **‼️ Declaration:** Your Name, Date (must match the submission date)
-- **‼️ Kurzfassung:** Content / Grammar / Spelling should be flawless
-- **‼️ Abstract:** Content / Grammar / Spelling should be flawless → preferrably validated by a native speaker
-- **‼️ Masurement Box** on the last page is for validation during printing, **remove for the final submission!**
+- **Kurzfassung:** Content / Grammar / Spelling should be flawless
+- **Abstract:** Content / Grammar / Spelling should be flawless -> preferrably validated by a native speaker
+- **‼Masurement Box** on the last page is for validation during printing, **remove for the final submission!**
