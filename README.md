@@ -54,25 +54,25 @@ Particularly important points are highlighted in **bold** and/or indicated with 
 
 ### Form
 
-- Is the thesis adequate in terms of spelling, grammar, sentence structure and writing style?
+**- Is the thesis adequate in terms of spelling, grammar, sentence structure and writing style?**
   * best to check while you are writing (e.g. Grammarly)
   * same naming for the same things / concepts: consistency
   * writing in German, use English terms wherever sensible (e.g. usability, tap, swipe, pinch)
   * writing in German, use gender according to [FHOÖ Guidelines](https://fh-ooe.at/assets/files/diversity-inclusion/Handreichungen-Links/Sprachleitfaeden/FHO_21_Sprachleitfaden_Genderleitfaden_A4_210310lrn2.pdf)
   * abbreviations should be introduced when they are first mentioned in the text (e.g. “the Affinity for Technology Interaction (ATI) Scale states ..”), and can be used as such lateron in the text (best practice: do so at the beginning of each chapter, as it cannot be assumed that readers will read through your entire thesis)
-- Is the thesis sensibly structured into chapters, subchapters, paragraphs?
+**- Is the thesis sensibly structured into chapters, subchapters, paragraphs?**
   * not too short, not too long; rule of thumb: one “topic” per (sub)chapter, one “idea” per paragraph
   * approx. 5-8 chapters, approx. 3-5+ subchapters per chapter
 - Is the length of the work adequate?
   * let's talk in words, just like any modern scientific conference does: Bachelor's thesis approx. 6000, Master's thesis approx. 9000
   * a reasonable proportion of figures is assumed (detailed figures / graphs may be part of the appendix)
 - Are the headings descriptive and clear?
-- Are tables / figures informative, titled, readable and their origins indicated?
+**- Are tables / figures informative, titled, readable and their origins indicated?**
   * each figure / table should be referenced in the text
   * figure / table caption should be clear, informative, concise (if copied from elsewhere, including reference, e.g. “adapted from [x]”, “based on [x]”)
   * font size inside figures / tables should be similar the body text
   * uniform formatting
-- Is referencing done correctly?
+**- Is referencing done correctly?**
   * immediately after naming authors and/or key content/concepts
   * list references just as they were part of a sentence (i.e., should come before the period at the end of the sentence)
   * multiple references to be combined into the same bracket (e.g., \cite{ref1, ref2}
