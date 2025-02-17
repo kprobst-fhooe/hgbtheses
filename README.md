@@ -19,19 +19,19 @@ Particularly important points are highlighted in **bold** and/or indicated with 
 
 ### Content / Structure
 
-**- Is the problem clearly formulated? Is the work based on a cxlear research question?**
+- **Is the problem clearly formulated? Is the work based on a cxlear research question?**
 - Is the goal of the work (“contribution”) clearly articulated? e.g. design guidelines / recommendations / considerations based on analysis and/or user study, prototype, design concepts…
-**- Is the current state of knowledge on the research subject (“related work”) taken into account?**
+- **Is the current state of knowledge on the research subject (“related work”) taken into account?**
   * up-to-date, representative references (preferably peer-reviewed formats such as scientific papers, journal articles, books)
   * for each reference, it should be clear how the present thesis differs from previous work and/or builds on it
-**- Is the methodological approach explained and justified?**
+- **Is the methodological approach explained and justified?**
   * what was done, why was it done, how was it done? (e.g., selection processes, design decisions...)
   * see also: user studies
-**- Are the results presented in a clear and structured way?**
+- **Are the results presented in a clear and structured way?**
   * are figures used where appropriate? (e.g., to showcase solutions, to highlight results...)
   * are they critically reflected upon (“limitations”)?
   * see also: user studies
-**- Is there a clear takeaway (_“...So What?”_)?** ‼️
+- **Is there a clear takeaway (_“...So What?”_)?** ‼️
   * are the results related to the initial research question and/or results from the related work (“common thread”)?
   * are there actionable design recommendations / design guidelines etc. for the readers of your thesis to learn from?
 
@@ -44,11 +44,11 @@ Particularly important points are highlighted in **bold** and/or indicated with 
   * Participants (how many, their age / gender / prior experience...)
   * Measured quantitative and/or qualitative data (e.g., time, error, interview / questionnaire questions...)
   * Procedure (step-by-step explanation of the study routine)
-- **Reporting: Are the results presented in a clear and structured way? **
+- **Reporting: Are the results presented in a clear and structured way?**
   * descriptive statistics: e.g., bar charts, box plots, tables... (indicate units or provide a legend wherever appropriate!)
   * inferential statistics: e.g., ANOVA, t-test, correlation analysis... (statistical values by convention in _italics_, e.g., _M_ = mean...)
   * qualitative data: e.g., number of participants w/ similar behaviors, representative quotes... (pseudonymized, e.g., "P1"!)
-- **Interpretation:** ‼️
+- **Interpretation: ‼️**
   * What do the results mean in relation to the initial research question / hypotheses?
   * What can we derive from this? What is the takeaway? see also: content / structure
 
@@ -87,9 +87,9 @@ Particularly important points are highlighted in **bold** and/or indicated with 
 
 ### Final Check Before Submission
 
-- **‼️ Check Frontmatter: **Titel, Your Name, Your Study Program, Date (must match the submission date)
-- **‼️ Name of Supervisor: **Prof. Dr. Kathrin Probst, BSc, MSc (DE: FH-Prof.in Dr.in Kathrin Probst, BSc MSc)
-- **‼️ Declaration: **Your Name, Date (must match the submission date)
-- **‼️ Kurzfassung: **Content / Grammar / Spelling should be flawless
-- **‼️ Abstract: **Content / Grammar / Spelling should be flawless → preferrably validated by a native speaker
-- **‼️ Masurement Box ** on the last page is meant for validation purpose during the printing process, **remove for the final submission!**
+- **‼️ Check Frontmatter:** Titel, Your Name, Your Study Program, Date (must match the submission date)
+- **‼️ Name of Supervisor:** Prof. Dr. Kathrin Probst, BSc, MSc (DE: FH-Prof.in Dr.in Kathrin Probst, BSc MSc)
+- **‼️ Declaration:** Your Name, Date (must match the submission date)
+- **‼️ Kurzfassung:** Content / Grammar / Spelling should be flawless
+- **‼️ Abstract:** Content / Grammar / Spelling should be flawless → preferrably validated by a native speaker
+- **‼️ Masurement Box** on the last page is meant for validation purpose during the printing process, **remove for the final submission!**
