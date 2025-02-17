@@ -11,7 +11,9 @@ It does not only showcase how a HGBThesis document may look like, but is also fi
 
 ## Thesis Checklist 
 
-The following checklist includes common points to consider when creating your thesis:
+The following checklist is compiled based on my personal experience points, that have been missing or that have gone wrong in prior thesis.
+The purpose of this list is to help you consider these common issues and best practices when creating your own thesis:
+
 
 ### Content / Structure
 
