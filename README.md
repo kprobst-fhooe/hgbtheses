@@ -43,7 +43,7 @@ Particularly important points are highlighted in **bold** and/or indicated with 
 - **Is the study design well done?** e.g., sufficient number of participants, counterbalancing to avoid learning effects,...
 - **Is the study design described in a comprehensible manner?**
   * Conditions (what is being evaluated?)
-  * Participants (how many, their age / gender / prior experience...)
+  * Participants (number of participants, their age / gender / prior experience...)
   * Measured quantitative and/or qualitative data (e.g., time, error, interview / questionnaire questions...)
   * Procedure (step-by-step explanation of the study routine)
 - **Reporting: Are the results presented in a clear and structured way?**
