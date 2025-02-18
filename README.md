@@ -22,7 +22,7 @@ Particularly important points are highlighted in **bold** and/or indicated with 
 ### Content / Structure
 
 - **Is the work based on a clear research question (resp. clearly defined problem scope / challenge)?**
-- **Is the goal of the work (“contribution”) clearly articulated?** e.g., design guidelines / recommendations / considerations based on analysis and/or user study, prototype, design concepts…
+- **Is the goal of the work (“contribution”) clearly articulated?** e.g., design guidelines / recommendations / considerations based on analysis and/or user study, prototype, design concept(s)…
 - **Is the current state of knowledge on the research subject (“related work”) taken into account?**
   * up-to-date, representative references (preferably peer-reviewed formats such as scientific papers, journal articles, books)
   * for each reference, it should be clear how the present thesis differs from previous work and/or builds on it
