@@ -5,7 +5,7 @@
 
 **First off, when it comes to LaTeX questions, the HGBThesisTutorial is your friend!** 
 
-It does not only showcase how a HGBThesis document may look like, but is also filled with tons of helpful information when it comes to working with LaTeX, including figures / tables / sourcecode / mathematical formulas, referencing of literature etc.
+It does not only showcase how a HGBThesis document may look like, but is also filled with tons of helpful information when it comes to working with LaTeX in general, including figures / tables / sourcecode / mathematical formulas, referencing of literature etc.
 
 - [HGBThesisTutorialDE](https://github.com/Digital-Media/HagenbergThesis/blob/main/documents/HgbThesisTutorialDE/main.pdf)
 - [HGBThesisTutorialEN](https://github.com/Digital-Media/HagenbergThesis/blob/main/documents/HgbThesisTutorialEN/main.pdf)
