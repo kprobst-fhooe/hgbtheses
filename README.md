@@ -95,3 +95,11 @@ Important points are highlighted in **bold** and/or indicated with ‼️
 - **Kurzfassung:** Content / Grammar / Spelling should be flawless
 - **Abstract:** Content / Grammar / Spelling should be flawless -> preferrably validated by a native speaker
 - **Masurement Box** on the last page is for validation during printing, **remove for the final submission!**
+
+
+
+## Hall of Fame
+
+This section includes some positive examples of former students, who nicely solved some aspects of their bachelor's and master's theses:
+
+Section in progress...
