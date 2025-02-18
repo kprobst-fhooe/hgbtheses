@@ -21,7 +21,7 @@ Particularly important points are highlighted in **bold** and/or indicated with 
 
 ### Content / Structure
 
-- **Is the problem clearly formulated? Is the work based on a cxlear research question?**
+- **Is the problem clearly formulated? Is the work based on a clear research question (resp. clearly defined research scope / challenge)?**
 - Is the goal of the work (“contribution”) clearly articulated? e.g. design guidelines / recommendations / considerations based on analysis and/or user study, prototype, design concepts…
 - **Is the current state of knowledge on the research subject (“related work”) taken into account?**
   * up-to-date, representative references (preferably peer-reviewed formats such as scientific papers, journal articles, books)
