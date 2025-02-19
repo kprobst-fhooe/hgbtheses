@@ -1,6 +1,7 @@
 # Theses Guide
 
 Welcome to my personal Thesis Guide! 
+
 Over the past few years, I have compiled this guide based on my own experiences coaching students through their Bachelor's and Master's theses. As such, the guide aims to provide you with practical advice and best practices to help you navigate the thesis creation process.
 
 
