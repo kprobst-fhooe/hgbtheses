@@ -1,5 +1,7 @@
 # Theses Guide
 
+Welcome to my personal Thesis Guide! Over the past few years, I have compiled this guide based on my own experiences coaching students through their Bachelor's and Master's theses. This guide aims to provide you with practical advice and best practices to help you navigate the thesis creation process.
+
 
 ## HGBThesisTutorial
 
@@ -98,7 +100,7 @@ Important points are highlighted in **bold** and/or indicated with ‼️
 
 
 
-## Hall of Fame
+## Best Practice
 
 This section includes some positive examples of former students, who nicely solved some aspects of their bachelor's and master's theses:
 
