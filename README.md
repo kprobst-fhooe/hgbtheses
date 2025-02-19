@@ -2,14 +2,14 @@
 
 Welcome to my personal Thesis Guide! 
 
-Over the past few years, I have compiled this guide based on my own experiences coaching students through their Bachelor's and Master's theses. As such, the guide aims to provide you with practical advice and best practices to help you navigate the thesis creation process.
+Over the past few years, I have compiled this guide based on my own experiences coaching students on their Bachelor's and Master's theses. As such, the guide aims to provide you with practical advice to help you navigate the thesis creation process.
 
 
 ## HGBThesisTutorial
 
 **First off, when it comes to LaTeX questions, the HGBThesisTutorial is your friend!** 
 
-It does not only showcase how a HGBThesis document may look like, but is also filled with tons of helpful information when it comes to working with LaTeX in general, including figures / tables / sourcecode / mathematical formulas, referencing of literature etc.
+It does not only showcase how a HGBThesis document may look like, but is also filled with lots of helpful information when it comes to working with LaTeX in general, including figures / tables / sourcecode / mathematical formulas, referencing of literature etc.
 
 - [HGBThesisTutorialDE](https://github.com/Digital-Media/HagenbergThesis/blob/main/documents/HgbThesisTutorialDE/main.pdf)
 - [HGBThesisTutorialEN](https://github.com/Digital-Media/HagenbergThesis/blob/main/documents/HgbThesisTutorialEN/main.pdf)
@@ -102,8 +102,8 @@ Important points are highlighted in **bold** and/or indicated with ‼️
 
 
 
-## Best Practice
+## Inspiration
 
-This section includes some positive examples of former students, who nicely solved some aspects of their bachelor's and master's theses:
+This section includes some positive examples of former students, who solved some aspects of their theses quite nicely:
 
 Section in progress...
