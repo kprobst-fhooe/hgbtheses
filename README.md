@@ -20,7 +20,7 @@ It does not only showcase how a HGBThesis document may look like, but is also fi
 The following checklist is compiled based on my personal experience points, that have been missing or that have gone wrong in prior thesis.
 The purpose of this list is to help you consider these common issues and best practices when creating your own thesis:
 
-Important points are highlighted in **bold** and/or indicated with ‼️
+Important points are highlighted in **bold**, super-important points are indicated with ‼️
 
 
 ### Content / Structure
