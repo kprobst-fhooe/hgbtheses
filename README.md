@@ -70,8 +70,9 @@ Important points are highlighted in **bold**, super-important points are indicat
   * not too short, not too long; rule of thumb: one “topic” per (sub)chapter, one “idea” per paragraph
   * approx. 5-8 chapters, approx. 3-5+ subchapters per chapter
 - Is the length of the work adequate?
-  * let's talk in words, just like any modern scientific conference does: Bachelor's thesis approx. 6000, Master's thesis approx. 9000
-  * a reasonable proportion of figures is assumed (detailed figures / graphs may be part of the appendix)
+  * historically, my rule of thumb has always been 30 pages for a Bachelor's thesis, 60 pages for a Master's thesis (pure content, excluding appendix)
+  * but maybe it's better to talk in words, just like any modern scientific conference does: Bachelor's thesis approx. 12.000, Master's thesis approx. 20.000
+  * overall, a reasonable proportion of figures is assumed (detailed figures / graphs may be part of the appendix)
 - Are the headings descriptive and clear?
 - **Are tables / figures informative, titled, readable and their origins indicated?**
   * each figure / table should be referenced in the text
